@@ -153,12 +153,6 @@ When a variable contains an unexpected value, understanding the scope chain will
 of painful debugging. When you're wondering where to declare a function so that it can access
 the proper variables, your familiarity with JavaScript's lexical scoping will be useful. 
 
-<picture>
-  <source srcset="https://curriculum-content.s3.amazonaws.com/web-development/js/principles/lexical-scoping-readme/cool_party.webp" type="image/webp">
-  <source srcset="https://curriculum-content.s3.amazonaws.com/web-development/js/principles/lexical-scoping-readme/cool_party.gif" type="image/gif">
-  <img src="https://curriculum-content.s3.amazonaws.com/web-development/js/principles/lexical-scoping-readme/cool_party.gif" alt="Cool party!">
-</picture>
-
 ## Resources
 
 - [JavaScript: Understanding the Weird Parts - The First 3.5 Hours](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts) (Video)
