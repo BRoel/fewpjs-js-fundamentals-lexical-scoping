@@ -158,6 +158,5 @@ JavaScript's lexical scoping will be useful.
 ## Resources
 
 - [JavaScript: Understanding the Weird Parts - The First 3.5 Hours](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts) (Video)
-- [You Don't Know JS: Scope & Closures]
-(https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch2.md)
+- [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch2.md)
 - [What is Lexical Scope Anyway?](http://astronautweb.co/javascript-lexical-scope/)
