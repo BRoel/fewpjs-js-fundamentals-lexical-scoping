@@ -22,10 +22,10 @@ processed.
 The _lexing_ phase of code compilation determines where and how all
 identifiers are declared, and how they will be looked up during execution.
 This mechanism also plays a role in being able to access certain variables
-throughout the code. For example the statement `var foo = 'bar'` is split
+throughout the code. For example the statement `let foo = 'bar'` is split
 into **two** separate steps at lexing time:
 
-1. `var foo` declares the variable in the scope before code execution.
+1. `let foo` declares the variable in the scope before code execution.
 
 2. `foo = 'bar'` assigns the value `'bar'` to the variable `foo`, if it is
 found in the available scope.
